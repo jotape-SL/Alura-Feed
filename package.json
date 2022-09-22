@@ -1,0 +1,23 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jotape-SL/Portifolio.git",
+  "author": "João Pedro de Sousa Cruz <jolunyna@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.18",
+    "@types/react": "18.0.20",
+    "typescript": "4.8.3"
+  }
+}
