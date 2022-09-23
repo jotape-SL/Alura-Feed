@@ -5,7 +5,9 @@ export default function HomeScreen() {
   return (
     <Box 
     tag="main"
-    styleSheet={{fontFamily: theme.typography.fontFamily}}
+    styleSheet={{
+      fontFamily: theme.typography.fontFamily
+    }}
     >HomeScreen
     </Box>
   )
